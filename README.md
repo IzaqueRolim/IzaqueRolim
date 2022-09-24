@@ -5,5 +5,5 @@
 - 💻 Desenvolvedor Web
 - 📱 Desenvolvedor Mobile
 - 🎮 Desenvolvedor de Jogos
-- 💡 Pesquisador e Desenvolvedor no ThinkTEd Lab
+- 💡 Pesquisador e Desenvolvedor no Ludus Lab
 
