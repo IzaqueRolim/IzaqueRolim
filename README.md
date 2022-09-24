@@ -1,12 +1,13 @@
-### Olá 👋 Eu sou o Izaque!
-
-
+#### Olá 👋 Eu sou o Izaque!
+##
 
 - 🎓 Acadêmico de Licenciatura em Computação
 - 💻 Desenvolvedor Web
 - 📱 Desenvolvedor Mobile
 - 🎮 Desenvolvedor de Jogos
 - 💡 Pesquisador e Desenvolvedor no Ludus Lab
+
+##
 
  <div>
   <a href="https://github.com/Rolinzinho48">
