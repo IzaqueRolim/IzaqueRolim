@@ -11,7 +11,7 @@
    
 - 🎓 Cursando Licenciatura em Computação na UEA
 - 🎮 Desenvolvedor de Jogos
-- 💻 Desenvolvedor Web
+- 💻 Desenvolvedor Web FullStack
 - 📱  Desenvolvedor Mobile
 
 
