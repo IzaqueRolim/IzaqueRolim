@@ -10,10 +10,10 @@
  </div>
    
 - 🎓 Cursando Licenciatura em Computação na UEA
-- 💡 Pesquisador e Desenvolvedor no Ludus Lab
-- 💻 Desenvolvedor Web
-- 📱 Desenvolvedor Mobile
 - 🎮 Desenvolvedor de Jogos
+- 💻 Desenvolvedor Web
+- 📱  Desenvolvedor Mobile
+
 
 ##
 <div>
