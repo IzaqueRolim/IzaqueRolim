@@ -9,7 +9,7 @@
       </h1>
  </div>
    
-- 🎓 Cursando Licenciatura em Computação na UEA
+- 🎓 Cursando Computação na UEA
 - 🎮 Desenvolvedor de Jogos
 - 💻 Desenvolvedor Web FullStack
 - 📱  Desenvolvedor Mobile
